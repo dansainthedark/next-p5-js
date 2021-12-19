@@ -1,5 +1,5 @@
 import type { NextPage } from 'next'
-import SketchComponent from '../components/SketchComponent'
+import SketchComponent from '@/components/SketchComponent'
 
 const Home: NextPage = () => {
   return (
